@@ -1,66 +1,77 @@
 📊 Manager Feedback Dashboard
 
-This project contains an interactive dashboard designed to analyze Manager Feedback Survey Data collected during my internship. The dashboard provides insights into how employees perceive managerial effectiveness across different parameters such as communication, leadership, and decision-making.
+This project was developed during my Summer 2024 internship as a Tech Intern. As a first-year student, I had the opportunity to explore the fields of data science and analytics, working on real organizational data to generate insights on managerial performance.
 
 🔍 Project Overview
 
-The Manager Feedback Dashboard helps HR and management teams:
+The Manager Feedback Dashboard was designed to analyze survey data collected from employees regarding their managers. The dataset was anonymized for confidentiality (manager names were replaced with celebrity names).
 
-Understand overall employee satisfaction with their managers.
+My role involved:
 
-Identify strength areas and areas for improvement in managerial performance.
+Collecting and merging multiple Excel files containing feedback responses.
 
-Monitor feedback trends over time.
+Cleaning and formatting raw survey data.
 
-Support data-driven decisions for leadership development.
+Performing qualitative, quantitative, and behavioral-style analysis of responses.
 
-🛠 Tools & Technologies
+Creating visualizations to map different managerial traits and highlight patterns.
 
-Excel / Power BI / Tableau → For dashboard creation and visualization
+Building an interactive dashboard to provide data-driven insights for leadership review.
 
-Data Cleaning & Transformation → Excel / Google Sheets
+🛠 Tools & Skills Learned
 
-GitHub → Version control & documentation
+Power BI → Dashboard creation, interactive filters, visual storytelling
 
-📂 Dataset
+Excel / Google Sheets → Data cleaning, transformations, formatting
 
-The dataset used is a Manager Feedback Survey collected during my internship.
-It includes (example columns):
+Data Analysis Techniques → Quantitative scoring, qualitative categorization, behavioral style mapping
 
-Manager_ID
+Visualization Types: Bell curves, heatmaps, comparative bar charts, score distributions
 
-Department
+(Note: Original company data cannot be shared due to confidentiality.)
 
-Communication_Score
+📈 Key Analysis
 
-Leadership_Score
+The dashboard provided multiple insights:
 
-Decision_Making_Score
+📌 Identified high-performing managers with consistently strong feedback.
 
-Overall_Satisfaction
+📌 Highlighted red-flag cases where managers scored low in communication or leadership.
 
-Comments
+📌 Mapped behavioral styles of managers using survey responses.
 
-(Note: Dataset is anonymized and shared only for academic/project purposes.)
+📌 Segregated results into quantitative vs qualitative dimensions.
 
-📈 Key Insights
-
-The dashboard highlights:
-
-📌 Average satisfaction levels across departments.
-
-📌 Manager-wise performance comparisons.
-
-📌 Distribution of scores across key competencies.
-
-📌 Text feedback analysis (common themes in employee comments).
+📌 Tracked overall distribution of scores via bell curves and heatmaps.
 
 🚀 Features of the Dashboard
 
-✅ Interactive filters (by department, manager, or time period)
+✅ Interactive filters (by manager, department, or survey category)
 
-✅ Visual breakdown of ratings (bar charts, pie charts, line graphs)
+✅ Quantitative and qualitative insights side by side
 
-✅ Overall performance scorecards
+✅ Bell curve & heatmap visualizations for deeper score analysis
 
-✅ Downloadable reports for HR review
+✅ Scorecards highlighting top and low-performing managers
+
+✅ Clear action points for HR and leadership review
+
+📸 Dashboard Preview
+
+*(Insert screenshots here — e.g., ![Dashboard Screenshot](images/dashboard.png))
+
+📝 Learnings from Internship
+
+This project gave me hands-on experience in:
+
+Working with real-world survey data.
+
+Applying data cleaning, formatting, and transformation techniques.
+
+Understanding how different types of analysis (quantitative, qualitative, behavioral) contribute to organizational insights.
+
+Creating dashboards that reflect not only numbers but also stories and red flags for decision-making.
+
+Learning advanced features of Power BI (heatmaps, bell curves, custom visuals).
+
+✨ This project was an important step in my journey into data analytics and helped me bridge classroom learning with practical problem-solving during my first-year internship.
